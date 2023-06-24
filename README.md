@@ -1,6 +1,9 @@
 ## Load Balancer Endpoint
 add372279c7df44f5ab66018e2df69ac-1354572531.us-east-1.elb.amazonaws.com
 
+## Github Link
+https://github.com/minhng1303/udacity-aws-devops-capstone-project
+
 ## Badges
 [![minhng1303](https://circleci.com/gh/minhng1303/udacity-aws-devops-capstone-project.svg?style=svg)](https://app.circleci.com/pipelines/github/minhng1303/udacity-aws-devops-capstone-project)
 
